@@ -1,0 +1,3 @@
+# NorPoolEasyMine
+
+A good project
