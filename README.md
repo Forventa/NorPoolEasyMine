@@ -1,3 +1,3 @@
 # NorPoolEasyMine
 
-A good project
+A simple gui to start XMRIG for windows. 
